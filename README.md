@@ -1,20 +1,19 @@
-# Consultoria AMHP - Materiais de Apoio
+# Treinamento EXBIZ - Materiais de Apoio
 
-Bem-vindo ao repositório da Consultoria AMHP! Aqui você encontrará uma variedade de materiais de apoio para auxiliar voces no desenvolvimento de suas atividades. Neste README, você encontrará informações úteis sobre o conteúdo do repositório, sua estrutura e como utilizá-lo de maneira eficiente.
+Bem-vindo ao repositório do Treinamento EXBIZ! Aqui você encontrará uma variedade de materiais de apoio para auxiliar voces no desenvolvimento de suas atividades. Neste README, você encontrará informações úteis sobre o conteúdo do repositório, sua estrutura e como utilizá-lo de maneira eficiente.
 
-## Sobre a Consultoria AMHP
+## Sobre o Treinamento EXBIZ
 
-A Consultoria AMHP culminou na implementacao de Firewall PFSENSE, configuracao de Regras, Squid, VPN, SNORT e NTOP-NG. Nosso objetivo é ajudar nossos a AMHP a alcançar o sucesso em seus projetos e alcançar resultados excepcionais.
+O treinamento de Linux System Administrator e Security é essencial para capacitar profissionais a gerenciar sistemas operacionais Linux com competência e garantir a proteção efetiva contra ameaças cibernéticas, garantindo a estabilidade e segurança dos ambientes computacionais.
 
 ## Conteúdo do Repositório
 
 O repositório está organizado da seguinte forma:
 
 ```bash
-├── Documentos
+├── Implementacao do Ambiente
 │   ├── Documentacao das configuracaoes.
-│   ├── Documentacao sobre Squid
-│   └── Documentacao sobre Snort
+│   └── Documentacao sobre as tecnologias.
 ├── Livros
 ├── Tutoriais
 └── Passagem de Conteudo
@@ -73,5 +72,5 @@ Se você tiver alguma dúvida ou precisar de suporte adicional, entre em contato
 
 ## Licença
 
-© 2023 Consultoria AMHP. Todos os direitos reservados.
+© 2023 Consultoria EXBIZ. Todos os direitos reservados.
 
