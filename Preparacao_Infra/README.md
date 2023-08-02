@@ -343,8 +343,8 @@ Abra um **Terminal** no Linux ou no Mac, ou então o **Cygwin64 Terminal** no Wi
 
 
 ```bash
-git clone https://github.com/joathamp/ataque_em_redes.git
-cd ataque_em_redes/
+git clone https://github.com/joathamp/exbiz.git
+cd exbiz/
 vagrant up
 ```
 
@@ -354,10 +354,10 @@ O `vagrant up` é um comando utilizado para ligar as máquinas e, na primeira ex
 
 Após a finalização, teremos quatro máquinas virtuais disponíveis com as seguintes especificações:
 
-Nome       | vCPUs | Memória RAM | IP            | Box
+Nome       | vCPUs | Memoria RAM | IP            | Box
 ---------- |:-----:|:-----------:|:-------------:|:---------------------:
-SD    | 1     | 3072MB      | 192.168.56.110 | joatham/Daryus_SD
-MR | 1     | 3072MB      | 192.168.56.120 | joatham/Daryus_MR
+testing    | 1     | 3072MB      | 192.168.56.10 | 4linux/527-testing
+automation | 1     | 3072MB      | 192.168.56.20 | 4linux/527-automation
 XXXXX    | 1     | 4092MB      | 192.168.56.130 | XXXXXX
 XXXX | 1     | 2048MB      | 192.168.56.140 | XXXXXX
 
@@ -389,7 +389,7 @@ Entre em contato conosco.
 Continue aprofundando seus conhecimentos, utilize este material para continuar praticando. 
 
 
-Um forte abraco do Jota e do Vitor e de toda a equipe da Daryus, bons estudos e a gente se ve por ai:
+Um forte abraco do Jota, bons estudos e a gente se ve por ai:
 
 * **Msc. Joatham Pedro**
   * **Perito Computacional**
